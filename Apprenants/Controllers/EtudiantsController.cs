@@ -13,6 +13,7 @@ namespace Apprenants.Controllers
 {
     public class EtudiantsController : Controller
     {
+      
         private readonly ApplicationDbContext _context;
 
         public EtudiantsController(ApplicationDbContext context)

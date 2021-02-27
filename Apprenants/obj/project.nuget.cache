@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1QaYO8rAAwS0E3x4+I6xjmWkiua1vJYU3VTtO5IIS1zdDU0q9XcTDA7HXxOV206eGJuJfh1wTSG/gKcFeINxWA==",
+  "dgSpecHash": "1fN5mQYfGzFcmmbOarTIyGM2hgPAFYY6TBw7BSjo0R5ia/mQaWm/e2YIFDp1VPWeVMjiOC+ff5h/QNH0ccFb2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Youcode\\Desktop\\GestionEtudiant\\Apprenants\\Apprenants.csproj",
+  "projectFilePath": "C:\\Users\\Youcode\\Desktop\\AspEtudiant\\Apprenants\\Apprenants.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\3.1.1\\microsoft.aspnetcore.authentication.facebook.3.1.1.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\3.1.1\\microsoft.aspnetcore.authentication.google.3.1.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Youcode\\Desktop\\GestionEtudiant\\Apprenants\\Apprenants.csproj": {}
+    "C:\\Users\\Youcode\\Desktop\\AspEtudiant\\Apprenants\\Apprenants.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Youcode\\Desktop\\GestionEtudiant\\Apprenants\\Apprenants.csproj": {
+    "C:\\Users\\Youcode\\Desktop\\AspEtudiant\\Apprenants\\Apprenants.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\GestionEtudiant\\Apprenants\\Apprenants.csproj",
+        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\AspEtudiant\\Apprenants\\Apprenants.csproj",
         "projectName": "Apprenants",
-        "projectPath": "C:\\Users\\Youcode\\Desktop\\GestionEtudiant\\Apprenants\\Apprenants.csproj",
+        "projectPath": "C:\\Users\\Youcode\\Desktop\\AspEtudiant\\Apprenants\\Apprenants.csproj",
         "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youcode\\Desktop\\GestionEtudiant\\Apprenants\\obj\\",
+        "outputPath": "C:\\Users\\Youcode\\Desktop\\AspEtudiant\\Apprenants\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

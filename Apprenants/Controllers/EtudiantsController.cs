@@ -114,6 +114,8 @@ namespace Apprenants.Controllers
             {
                 try
                 {
+                   
+
                     _context.Update(etudiants);
                     await _context.SaveChangesAsync();
                 }

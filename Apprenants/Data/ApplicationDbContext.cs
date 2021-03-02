@@ -14,6 +14,17 @@ namespace Apprenants.Data
         {
         }
         public DbSet<Apprenants.Models.Etudiants> Etudiants { get; set; }
-        public DbSet<Apprenants.Models.Roles> Roles { get; set; }
+
+        private DbSet<Roles> roles;
+
+        public DbSet<Roles> GetRoles()
+        {
+            return roles;
+        }
+
+        public void SetRoles(DbSet<Roles> value)
+        {
+            roles = value;
+        }
     }
 }

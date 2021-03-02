@@ -27,7 +27,7 @@ namespace Apprenants.Controllers
             return View(await _context.Etudiants.ToListAsync());
         }
         // GET: Etudiants/Recherche
-        public async Task<IActionResult> ShowSearchForm()
+        public IActionResult ShowSearchForm()
         {
             return View();
         }
